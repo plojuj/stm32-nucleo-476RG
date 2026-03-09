@@ -1,6 +1,7 @@
 # STM32 OLED Slot Machine Game
 ![b3d8df0e-019d-4fd6-8555-dffddf7c29f7](https://github.com/user-attachments/assets/5eb88435-ed70-4725-a116-2bd00f6e5312)
-![e8c70e4b-4071-448c-bda4-df01ca51c496](https://github.com/user-attachments/assets/d4c51521-114c-4e9b-bda3-ce34af458339)
+![dsa](https://github.com/user-attachments/assets/2cfee4e7-0dcd-48dc-8fea-a15d02f839ff)
+
 ![46f5479d-9c67-40da-9dc7-517c944e44bb](https://github.com/user-attachments/assets/ab126d15-4c6b-4e56-92d4-8b5cfbe27372)
 
 
