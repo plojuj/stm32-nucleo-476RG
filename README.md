@@ -27,4 +27,4 @@ A miniature slot machine game implemented on the **STM32L476RG** microcontroller
 
 ## 📚 Credits
 This project uses an excellent open-source library for the OLED screen. Full credit goes to the original author:
-* **SSD1306 OLED library for STM32:** [Link to author's GitHub](INSERT_LINK_TO_SSD1306_HERE)
+* **SSD1306 OLED library for STM32:** [https://github.com/afiskon/stm32-ssd1306]
