@@ -1,6 +1,8 @@
 # STM32 OLED Slot Machine Game
-![b00a06ec-31ae-4fe5-b830-9cc9737a85c8](https://github.com/user-attachments/assets/9381269c-8e82-420e-a8ce-b1b6ae968bca)
-![9a4cd127-2477-48c9-98c3-4055eaafb4df](https://github.com/user-attachments/assets/70d989a6-1912-4047-ad9a-f63e8a98ac63)
+![b3d8df0e-019d-4fd6-8555-dffddf7c29f7](https://github.com/user-attachments/assets/5eb88435-ed70-4725-a116-2bd00f6e5312)
+![e8c70e4b-4071-448c-bda4-df01ca51c496](https://github.com/user-attachments/assets/d4c51521-114c-4e9b-bda3-ce34af458339)
+![46f5479d-9c67-40da-9dc7-517c944e44bb](https://github.com/user-attachments/assets/ab126d15-4c6b-4e56-92d4-8b5cfbe27372)
+
 
 A miniature slot machine game implemented on the **STM32L476RG** microcontroller using an OLED display. This project perfectly demonstrates the use of external interrupts (EXTI), hardware timers, and a state machine to control game logic.
 
